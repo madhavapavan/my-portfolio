@@ -19,7 +19,7 @@ export const projects = [
     categories: ['web', 'chat-app'],
     client: 'Personal Project',
     date: 'April 2025',
-    liveUrl: 'https:cipherchat-io.netlify.app',
+    liveUrl: 'https://cipherchat-io.netlify.app/',
     githubUrl: 'https://github.com/madhavavukkum/cipherchat',
     featured: false,
   },
